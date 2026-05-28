@@ -48,15 +48,13 @@ A console-based backend application built using **Java, JDBC, and MySQL** to sim
 * Scanner Input Handling
 * switch-case Menu System
 
-
-#  Project Structure
-
+Project Structure
 src
- ├── Main.java
- ├── DBConnection.java
- ├── RestaurantService.java
- ├── OrderService.java
- └── ReviewService.java
+   Main.java
+   DBConnection.java
+   RestaurantService.java
+   OrderService.java
+   ReviewService.java
 
 
 #  Functionalities
